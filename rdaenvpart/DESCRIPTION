@@ -1,0 +1,12 @@
+Package: rdaenvpart
+Type: Package
+Title: Hierarchical Partitioning for Canonical Correspondence Analysis and Redundancy Analysis
+Version: 0.1.0
+Author: Jiangshan Lai
+Maintainer: Jiangshan Lai <lai@ibcas.ac.cn>
+Description: Hierarchical Partitioning for Canonical Correspondence Analysis and Redundancy Analys
+Depends: vegan, hier.part, R (>= 3.2.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
